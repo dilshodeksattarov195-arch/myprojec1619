@@ -1,0 +1,8 @@
+body { background: #12ecab; margin: 0; font-family: sans-serif; }
+.analytics-view { padding: 57px; display: flex; }
+.block-router-0 { color: #af904; font-size: 15px; margin-bottom: 5px; }
+.block-logger-1 { color: #50322a; font-size: 18px; margin-bottom: 5px; }
+.block-user-2 { color: #617889; font-size: 12px; margin-bottom: 5px; }
+.block-session-3 { color: #ecb9f0; font-size: 17px; margin-bottom: 5px; }
+.block-database-4 { color: #611c8c; font-size: 18px; margin-bottom: 5px; }
+.block-helper-5 { color: #5382c6; font-size: 20px; margin-bottom: 5px; }
