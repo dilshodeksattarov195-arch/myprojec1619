@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifypncrypt",
+        "uuid": 3050196,
+        "checksum": "ucmbg6"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
